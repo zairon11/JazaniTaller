@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\bin\Debug\net7.0\Jazani.Infrastructure.deps.json
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\bin\Debug\net7.0\Jazani.Infrastructure.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\bin\Debug\net7.0\Jazani.Infrastructure.pdb
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\Jazani.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\Jazani.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\Jazani.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\Jazani.Infrastructure.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\Jazani.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\Jazani.Infrastructure.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\refint\Jazani.Infrastructure.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\Jazani.Infrastructure.pdb
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\ref\Jazani.Infrastructure.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\bin\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\bin\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Infrastructure\obj\Debug\net7.0\Jazani.Infrastructure.csproj.CopyComplete

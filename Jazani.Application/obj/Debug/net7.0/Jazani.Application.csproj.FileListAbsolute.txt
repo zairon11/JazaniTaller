@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\bin\Debug\net7.0\Jazani.Application.deps.json
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\bin\Debug\net7.0\Jazani.Application.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\bin\Debug\net7.0\Jazani.Application.pdb
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\Jazani.Application.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\Jazani.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\Jazani.Application.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\Jazani.Application.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\Jazani.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\Jazani.Application.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\refint\Jazani.Application.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\Jazani.Application.pdb
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\ref\Jazani.Application.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\bin\Debug\net7.0\Jazani.Domain.dll
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\bin\Debug\net7.0\Jazani.Domain.pdb
+C:\Users\Sergio\Desktop\JAZANI BOOTCAMP\BotcampBackendJazani2023\Jazani.Application\obj\Debug\net7.0\Jazani.Application.csproj.CopyComplete
